@@ -2,8 +2,8 @@
 
 // Declaracion e inicializacion de variables utilizadas para
 // realizar la conexion a la red Wifi
-const char WiFiSSID[] = "SETISA_AP"; //SSID de la red Wifi
-const char WiFiPSK[] = "Smedia16";  //Contraseña WPA, WPA2 o WEP
+const char WiFiSSID[] = "SSID"; //SSID de la red Wifi
+const char WiFiPSK[] = "Password";  //Contraseña WPA, WPA2 o WEP
 
 
 // Inicializacion de pines
